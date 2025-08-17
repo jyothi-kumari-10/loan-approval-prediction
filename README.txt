@@ -45,8 +45,6 @@ git clone https://github.com/jyothi-kumari-10/loan-approval-prediction.git
 
 Navigate to the project folder and open the notebook:
 jupyter notebook Loan_Approval_Prediction.ipynb
-
-
 Run all cells to reproduce the results.
 
 Conclusion
