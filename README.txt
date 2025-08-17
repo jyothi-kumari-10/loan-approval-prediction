@@ -6,60 +6,44 @@ This project applies machine learning techniques to predict whether a loan appli
 Technologies Used
 
 Python
-
 Scikit-learn
-
 Pandas
-
 Matplotlib / Seaborn (for visualization)
-
 Jupyter Notebook
 
 Dataset
-
 The dataset contains applicant information such as income, loan amount, credit history, and employment details.
-
 Data preprocessing steps were applied to handle missing values and categorical variables.
 
 Methodology
 
 Data Preprocessing
-
 Handled missing values
-
 Encoded categorical variables
-
 Normalized/standardized numerical features
 
 Model Development
 
 Implemented a Decision Tree Classifier
-
 Trained and validated using Scikit-learn
-
-Hyperparameter tuning for optimal performance
 
 Evaluation
 
 Metrics: Accuracy, Precision, Recall, and F1-score
-
 Feature importance analysis to identify key approval factors
 
 Results
 
 The Decision Tree model achieved high accuracy on the test set.
-
 Key features influencing approvals included applicant income, loan amount, and credit history.
 
 How to Run
 
 Clone this repository
-
 git clone https://github.com/jyothi-kumari-10/loan-approval-prediction.git
 
 
 Navigate to the project folder and open the notebook:
-
 jupyter notebook Loan_Approval_Prediction.ipynb
 
 
